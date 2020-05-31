@@ -14,3 +14,4 @@ Analysis:
 -Class: Bad when Rating <=3  
 -Class: Good otherwise   
 -Develop a model to predict the Rating class  
+ 
